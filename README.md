@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a highly skilled and experienced React JS developer with almost 3 years of experience in creating user-friendly and engaging web applications.I have hands-on knowledge on languages like Node JS,Angular TS ,Next JS,Javascript,Typescript. My passion for coding and my attention to detail has helped me to excel in the field of web development.
+I am a highly skilled and experienced React JS developer with 3.5+ years of experience in creating user-friendly and engaging web applications.I have hands-on knowledge on languages like Node JS,Angular TS ,Next JS,Javascript,Typescript. My passion for coding and my attention to detail has helped me to excel in the field of web development.
 
 
 ## 🌐 Socials:
